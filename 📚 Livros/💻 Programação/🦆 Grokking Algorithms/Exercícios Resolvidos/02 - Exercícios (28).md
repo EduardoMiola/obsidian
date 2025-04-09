@@ -1,0 +1,6 @@
+2.1 - Você usaria uma [[11 - Listas|Lista]] devido ao alto numero de inserts e as poucas vezes que você lê, caso você lesse mais talvez fosse melhor usar um [[10 - Arrays|Array]].
+2.2 - Usaria um [[11 - Listas|Lista]] por conta da rapidez da inserção e deleção, e como o chefe só vai ler a primeira então podemos sempre ter o endereço dela pronto.
+2.3 - Só poderia ser um array para a busca binária funcionar por ter acesso randômico, caso contrário usando uma [[11 - Listas|Lista]] precisaria passar por todos os arquivos até chegar no meio da lista.  ==( O  [[10 - Arrays|Array]] deve estar ordenado )== 
+2.4 - O lado negativo do uso de  [[10 - Arrays|Array]] é que eles ocupam um espaço contínuo na memória, fazendo com que inserções sejam mais demoradas por ter que mover o conteúdo da memória dependendo de onde o novo elemento será inserido.
+Ao adicionar um novo usuário ele será inserido no final do  [[10 - Arrays|Array]], tendo que fazer com que ele seja re ordenado toda vez que se tem um insert.
+2.5 - Para busca seria mais rapida que linked lists mas mais de vagar do que  [[10 - Arrays|Array]] por que você está procurando em 1/26 do que seria a lista linkada completa toda vez e pra inserir também já que elementos vão ser inseridos sempre na lista linkada fazendo com que seja mais rápido que inserir em um  [[10 - Arrays|Array]]

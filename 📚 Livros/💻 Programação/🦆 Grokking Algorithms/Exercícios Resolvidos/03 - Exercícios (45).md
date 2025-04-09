@@ -1,0 +1,1 @@
+3.1 - Eu posso dizer por essa [[17 - Pilhas|Pilha]] que a função já rodou o primeiro print dando Oi e agora entrou dentro da segunda função e esta rodando ela, ela passou pra segunda função a variavel com o nome Maggie.

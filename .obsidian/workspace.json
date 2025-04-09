@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "cfe7b4322fc62524",
+    "type": "split",
+    "children": [
+      {
+        "id": "24ad7efc9784a1e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe07db430c35afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Livros/💻 Programação/🦆 Grokking Algorithms/26 - Estrutura de Grafos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 - Estrutura de Grafos"
+            }
+          },
+          {
+            "id": "45aefc1f84c1fa86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Livros/💻 Programação/🐗 Eloquent Javascript/00 - Começando.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Começando"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e948bf41808bdf60",
+    "type": "split",
+    "children": [
+      {
+        "id": "b775a866c9531d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6395189de6300b92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1b4ac938b5fe689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "587e664a087c3220",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad7b11a51c3dd1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "562b20b6e036c8ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dd79f75eece4244",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📚 Livros/💻 Programação/🦆 Grokking Algorithms/09 - Memória.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 09 - Memória"
+            }
+          },
+          {
+            "id": "a7da4766acb4a36e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📚 Livros/💻 Programação/🦆 Grokking Algorithms/25 - Breadth-first search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 25 - Breadth-first search"
+            }
+          },
+          {
+            "id": "ed4969193c2fdc9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📚 Livros/💻 Programação/🦆 Grokking Algorithms/25 - Breadth-first search.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 25 - Breadth-first search"
+            }
+          },
+          {
+            "id": "fc31a60a62544657",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "531454c89c9b7ea9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "45aefc1f84c1fa86",
+  "lastOpenFiles": [
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/24 - Hashmap.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/00 - Começando.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/27 - Dijkstra's Algorithm.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/26 - Estrutura de Grafos.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/25 - Breadth-first search.md",
+    "💻 Trabalho/✅ Certtus/🫂 Touch",
+    "💻 Trabalho/✅ Certtus/🗣️  Talk",
+    "💻 Trabalho/✅ Certtus",
+    "💻 Trabalho",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/15 - Algoritmos de Ordenação.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/23 - Quicksort.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/26 - Depth-first search.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/17 - Pilhas.md",
+    "Untitled.canvas",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/14 - Estruturas de Dados Fundamentais.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/02 - Complexidade de algoritmos.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/00 - Algoritmos.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/12 - Selection Sort.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/09 - Memória.md",
+    "giti",
+    "giti/minhasNotas",
+    "Templates/Template - LIVRO.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/22 - Divide and Conquer.md",
+    "Templates",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/21 - Recursão.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/Exercícios Resolvidos/04 - Exercícios (59).md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/03 - Big O Notation.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/13 - Listas ligadas x Arrays.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/16 - Filas.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/18 - Árvores.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/19 - Grafos.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/20 - A Call Stack.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/10 - Arrays.md",
+    "🎓 Universidade/2025-01/⚖️ Ética, Normas e Postura Profissional/📖 Aulas/📅 Semana 1 (24-03 - 30-03)/📄 01 - Apresentação do Plano de Ensino.md",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/Imagens/Pasted image 20250404082303.png",
+    "🎓 Universidade/2025-01/🎭 Programação Orientada a Objetos/🔑 Conceitos Chave",
+    "🎓 Universidade/2025-01/🎭 Programação Orientada a Objetos/📖 Aulas/📅 Semana 1 (24-03 - 30-03)",
+    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/Imagens/Pasted image 20250327165433.png",
+    "Pasted image 20250327165444.png"
+  ]
+}
