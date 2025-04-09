@@ -1,0 +1,8 @@
+warning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it
+[main 112e7dc] Update automatico 2025-04-09_17-13-54
+ 4 files changed, 47 insertions(+), 69 deletions(-)
+ create mode 100644 git-logs/log_2025-04-09_17-13-54.txt
+ create mode 100644 obsidian.bat.txt
+To https://github.com/EduardoMiola/obsidian.git
+   b331ffd..112e7dc  main -> main
+[2025-04-09_17-13-54] Push realizado com sucesso. 
