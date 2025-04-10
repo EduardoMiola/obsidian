@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Livros/💻 Programação/🐗 Eloquent Javascript/00 - Começando.md",
+                "file": "📚 Livros/💻 Programação/🐗 Eloquent Javascript/01 - Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Começando"
+              "title": "01 - Values"
+            }
+          },
+          {
+            "id": "5865f17ebd82c740",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,15 +207,26 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "6395189de6300b92",
+  "active": "5865f17ebd82c740",
   "lastOpenFiles": [
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/08 - Operadores lógicos.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/07 - Booleanos.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/06 - Unary operators.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/05 - Strings.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/04 - Números especiais.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/03 - Aritmética.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/02 - Number type.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/00 - Javascript.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/01 - Values.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/11- Quebrando operadores lógicos.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/09 - Valores vazios.md",
+    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/10 - Conversão de Type automática.md",
     "obsidian.bat.txt",
     "Novo(a) Documento de Texto.txt",
     "run_setup.bat.txt",
     "Novo atalho.lnk",
     "setup.ps1",
     "📚 Livros/💻 Programação/🦆 Grokking Algorithms/24 - Hashmap.md",
-    "📚 Livros/💻 Programação/🐗 Eloquent Javascript/00 - Começando.md",
     "📚 Livros/💻 Programação/🐗 Eloquent Javascript",
     "📚 Livros/💻 Programação/🦆 Grokking Algorithms/27 - Dijkstra's Algorithm.md",
     "📚 Livros/💻 Programação/🦆 Grokking Algorithms/26 - Estrutura de Grafos.md",
@@ -224,18 +245,7 @@
     "📚 Livros/💻 Programação/🦆 Grokking Algorithms/00 - Algoritmos.md",
     "📚 Livros/💻 Programação/🦆 Grokking Algorithms/12 - Selection Sort.md",
     "📚 Livros/💻 Programação/🦆 Grokking Algorithms/09 - Memória.md",
-    "giti",
     "Templates/Template - LIVRO.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/22 - Divide and Conquer.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/21 - Recursão.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/Exercícios Resolvidos/04 - Exercícios (59).md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/03 - Big O Notation.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/13 - Listas ligadas x Arrays.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/16 - Filas.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/18 - Árvores.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/19 - Grafos.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/20 - A Call Stack.md",
-    "📚 Livros/💻 Programação/🦆 Grokking Algorithms/10 - Arrays.md",
     "📚 Livros/💻 Programação/🦆 Grokking Algorithms/Imagens/Pasted image 20250404082303.png",
     "📚 Livros/💻 Programação/🦆 Grokking Algorithms/Imagens/Pasted image 20250327165433.png",
     "Pasted image 20250327165444.png"

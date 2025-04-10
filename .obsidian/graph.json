@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"📚 Livros/💻 Programação/🦆 Grokking Algorithms\"  ",
@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"📚 Livros/💻 Programação/🐗 Eloquent Javascript\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 14725970
       }
     }
   ],
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.29947916666667,
   "lineSizeMultiplier": 1.37604166666667,
   "collapse-forces": false,
-  "centerStrength": 0.25,
+  "centerStrength": 0.192708333333333,
   "repelStrength": 11.5625,
-  "linkStrength": 0.260416666666667,
-  "linkDistance": 270,
-  "scale": 0.1166089157945749,
+  "linkStrength": 0.375,
+  "linkDistance": 170,
+  "scale": 0.11660891579457501,
   "close": true
 }
