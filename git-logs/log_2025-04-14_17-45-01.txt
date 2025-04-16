@@ -1,0 +1,26 @@
+warning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/graph.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/smart-connections/data.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git-logs/log_2025-04-10_17-45-02.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.smart-env/multi/📚_Livros_💻_Programação_🐗_Eloquent_Javascript_02_-_Number_type_md.ajson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.smart-env/multi/📚_Livros_💻_Programação_🐗_Eloquent_Javascript_03_-_Aritmética_md.ajson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.smart-env/multi/📚_Livros_💻_Programação_🐗_Eloquent_Javascript_04_-_Números_especiais_md.ajson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.smart-env/multi/📚_Livros_💻_Programação_🐗_Eloquent_Javascript_05_-_Strings_md.ajson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.smart-env/multi/📚_Livros_💻_Programação_🐗_Eloquent_Javascript_06_-_Unary_operators_md.ajson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.smart-env/multi/📚_Livros_💻_Programação_🐗_Eloquent_Javascript_07_-_Booleanos_md.ajson', LF will be replaced by CRLF the next time Git touches it
+[main c76f630] Update automatico 2025-04-14_17-45-01
+ 9 files changed, 66 insertions(+), 9 deletions(-)
+ create mode 100644 ".smart-env/multi/\360\237\223\232_Livros_\360\237\222\273_Programa\303\247\303\243o_\360\237\220\227_Eloquent_Javascript_02_-_Number_type_md.ajson"
+ create mode 100644 ".smart-env/multi/\360\237\223\232_Livros_\360\237\222\273_Programa\303\247\303\243o_\360\237\220\227_Eloquent_Javascript_03_-_Aritm\303\251tica_md.ajson"
+ create mode 100644 ".smart-env/multi/\360\237\223\232_Livros_\360\237\222\273_Programa\303\247\303\243o_\360\237\220\227_Eloquent_Javascript_04_-_N\303\272meros_especiais_md.ajson"
+ create mode 100644 ".smart-env/multi/\360\237\223\232_Livros_\360\237\222\273_Programa\303\247\303\243o_\360\237\220\227_Eloquent_Javascript_05_-_Strings_md.ajson"
+ create mode 100644 ".smart-env/multi/\360\237\223\232_Livros_\360\237\222\273_Programa\303\247\303\243o_\360\237\220\227_Eloquent_Javascript_06_-_Unary_operators_md.ajson"
+ create mode 100644 ".smart-env/multi/\360\237\223\232_Livros_\360\237\222\273_Programa\303\247\303\243o_\360\237\220\227_Eloquent_Javascript_07_-_Booleanos_md.ajson"
+ create mode 100644 git-logs/log_2025-04-14_17-45-01.txt
+To https://github.com/EduardoMiola/obsidian.git
+   283c057..c76f630  main -> main
+[2025-04-14_17-45-01] Push realizado com sucesso. 
