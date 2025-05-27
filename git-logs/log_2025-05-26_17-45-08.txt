@@ -1,0 +1,20 @@
+warning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/appearance.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/smart-connections/data.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git-logs/log_2025-05-21_17-45-01.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.smart-env/multi/💻_Trabalho_✅_Certtus_🫂_Touch_Sheets_Como_funcionam_md.ajson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.smart-env/multi/💻_Trabalho_✅_Certtus_🫂_Touch_Sheets_Untitled_md.ajson', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '💻 Trabalho/✅ Certtus/🫂 Touch/Sheets/Como funciona.md', LF will be replaced by CRLF the next time Git touches it
+[main efe3b33] Update automatico 2025-05-26_17-45-08
+ 7 files changed, 85 insertions(+), 42 deletions(-)
+ create mode 100644 ".smart-env/multi/\360\237\222\273_Trabalho_\342\234\205_Certtus_\360\237\253\202_Touch_Sheets_Como_funcionam_md.ajson"
+ create mode 100644 ".smart-env/multi/\360\237\222\273_Trabalho_\342\234\205_Certtus_\360\237\253\202_Touch_Sheets_Untitled_md.ajson"
+ create mode 100644 git-logs/log_2025-05-26_17-45-08.txt
+ create mode 100644 "\360\237\222\273 Trabalho/\342\234\205 Certtus/\360\237\253\202 Touch/Sheets/Como funciona.md"
+ create mode 100644 "\360\237\222\273 Trabalho/\342\234\205 Certtus/\360\237\253\202 Touch/Sheets/Untitled.md"
+To https://github.com/EduardoMiola/obsidian.git
+   ca1a85b..efe3b33  main -> main
+[2025-05-26_17-45-08] Push realizado com sucesso. 

@@ -44,14 +44,3 @@
    ⬇️  
 6. **A tela se atualiza conforme o modo selecionado**
 
----
-
-## Dicas para estudar Context no React
-
-- Contexto no React é para compartilhar dados/funções entre componentes sem precisar passar props manualmente.
-- O Provider monta o "pacote" de dados/funções usando hooks e passa para os filhos.
-- O hook `useContext` (ou um custom, como `useTarefasContext`) serve para acessar esse pacote em qualquer componente filho.
-
----
-
-Se quiser um exemplo mais simples ou quiser ver como criar um contexto do zero, só pedir! Você está no caminho certo!
